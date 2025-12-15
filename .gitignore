@@ -1,0 +1,42 @@
+# OS / 편집기
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.orig
+.idea/
+.vscode/
+
+# 가상환경 & 환경변수
+.env
+.env.*
+.venv/
+venv/
+env/
+.python-version
+
+# Python 빌드/캐시
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-log.txt
+pip-delete-this-directory.txt
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+.pyre/
+.pytype/
+
+# 로그
+*.log
+
